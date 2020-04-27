@@ -1,6 +1,6 @@
 # 校园生活效率提升App: SYSU Campus Life - All in One 设计思路
 
-> Proudly Designed by Invincible Inc.
+> Proudly Presented by Invincible Inc.
 
 - [校园生活效率提升App: SYSU Campus Life - All in One 设计思路](#%e6%a0%a1%e5%9b%ad%e7%94%9f%e6%b4%bb%e6%95%88%e7%8e%87%e6%8f%90%e5%8d%87app-sysu-campus-life---all-in-one-%e8%ae%be%e8%ae%a1%e6%80%9d%e8%b7%af)
   - [一、功能类别定义与App整体规划](#%e4%b8%80%e5%8a%9f%e8%83%bd%e7%b1%bb%e5%88%ab%e5%ae%9a%e4%b9%89%e4%b8%8eapp%e6%95%b4%e4%bd%93%e8%a7%84%e5%88%92)
