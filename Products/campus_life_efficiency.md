@@ -40,6 +40,14 @@
 
 > 完成建议：可以在中大app、中大门户网站、学院网站以及微信公众号中查看现有功能，进行简要说明并截图在此展示。而后对功能进行归类，填入表中
 
+- 校园资讯相关 --> 中大App(左)、新闻公告(右)
+
+<div align=center><img src="./Images/Part2_1.png" width=256 height=256></img></div>
+
+- 日常生活相关(部分图片，详见下方表格) --> 中大App中的部分功能(左)、校历(右)
+
+<div align=center><img src="./Images/Part2_2.png" width=256 height=256></img></div>
+
 |类别|现有功能名称|
 |-|-|
 |校园资讯|新闻资讯（中大App）、新闻公告（门户网站）|
