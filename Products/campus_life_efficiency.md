@@ -44,6 +44,10 @@
 
 ![](./Images/Part2_1.png)
 
+<div align=center>
+  <img src="./Images/Part2_1.png", width="400">
+</div>
+
 - 日常生活相关(部分图片，详见下方表格) --> 中大App中的部分功能(左)、校历(右)
 
 ![](./Images/Part2_2.png)
