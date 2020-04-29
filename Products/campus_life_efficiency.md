@@ -42,11 +42,11 @@
 
 - 校园资讯相关 --> 中大App(左)、新闻公告(右)
 
-<div align=center><img src="./Images/Part2_1.png" width=256 height=256></img></div>
+![](./Images/Part2_1.png)
 
 - 日常生活相关(部分图片，详见下方表格) --> 中大App中的部分功能(左)、校历(右)
 
-<div align=center><img src="./Images/Part2_2.png" width=256 height=256></img></div>
+![](./Images/Part2_2.png)
 
 |类别|现有功能名称|
 |-|-|
