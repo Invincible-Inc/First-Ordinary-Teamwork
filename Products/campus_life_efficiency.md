@@ -50,11 +50,11 @@
 
 - 行政办事相关(详见下方表格) --> 免试研究生资格本科生成绩单及推荐信办理(大学服务中心)
 
-  ![](D:\学术大礼包\IT项目管理\project\First-Ordinary-Teamwork\Products\Images\Part2_3.png)
+  ![](./Images/Part2_3.png)
 
 - 行政办事相关 --> 请假申请(教务系统)
 
-![](D:\学术大礼包\IT项目管理\project\First-Ordinary-Teamwork\Products\Images\Part2_4.png)
+![](./Images/Part2_4.png)
 
 |类别|现有功能名称|
 |-|-|
