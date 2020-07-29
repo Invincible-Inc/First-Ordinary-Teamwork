@@ -18,4 +18,5 @@ __*注意*__：插入图片用markdown的 `![name](URL)` 语法插入。若不�
 )进行核查。
 
 ## PPT
-相关安排见微信群公告。
+
+[https://docs.qq.com/slide/DYktWUXhKRWtGd09K](https://docs.qq.com/slide/DYktWUXhKRWtGd09K)
